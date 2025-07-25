@@ -8,7 +8,7 @@
 
 ## 📌 Problem Statement
 
-You are required to implement a simple **Student Register** using a static data structure in C. The register should support basic CRUD operations and file handling functionalities *without using dynamic memory allocation*.
+You are required to implement a simple **Student Register** using a static data structure in C. The register should support basic CRUD operations and file handling functionalities *without using dynamic memory allocation*. Example and other details included in the pdf.
 
 ---
 
