@@ -1,6 +1,6 @@
-# 📚 Data Structure Lab Assignments – CS 2172
+# 📚 Data Structure Lab – CS 2172
 
-This repository contains all my lab assignments for the **Data Structure Lab (CS 2172)** course, taken in the 5th semester at **IIEST Shibpur**. All assignments are implemented in **C**.
+This repository contains all my *lab assignments* for the **Data Structure Lab (CS 2172)** course, taken in the 5th semester at **IIEST Shibpur**. All assignments are implemented in **C**.
 
 ## 📁 Repository Structure
 
