@@ -16,7 +16,7 @@ Each folder is organized by lab week or assignment number, and includes:
 Each folder is named by assignment number and includes the problem statement (if available), explanation, and the C code.
 
 - 📁 Assignment 1 – Array Concepts
-- 📁 Assignment 2 – 
+- 📁 Assignment 2 – Stack
 - 📁 Assignment 3 – 
 - 📁 Assignment 4 – 
 - 📁 Assignment 5 – 
