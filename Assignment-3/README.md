@@ -41,7 +41,8 @@ It also includes a **simulation** problem where elements are processed and re-qu
 
 | File | Description |
 |------|-------------|
-| `assignment3_queue.c` | Full C implementation with queue ADT and simulation. |
+| `assignment3_1.c` | Full C implementation with queue ADT and simulation WITHOUT COUNT |
+| `assignment3_2.c` | Full C implementation with queue ADT and simulation WITH COUNT |
 
 ---
 
