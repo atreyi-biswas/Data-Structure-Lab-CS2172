@@ -18,8 +18,8 @@ Each folder is named by assignment number and includes the problem statement (if
 - 📁 Assignment 1 – Array Concepts (with and without dynamic memory allocation)
 - 📁 Assignment 2 – Stack
 - 📁 Assignment 3 – Queues
-- 📁 Assignment (Optional) – Postfix Prefix
-- 📁 Assignment 4 – Linked List
+- 📁 Optional Assignment – Postfix Prefix
+- 📁 Assignment 4 – Singly Linked List
 - 📁 Assignment 5 – 
 - 📁 Assignment 6 – 
 - 📁 Assignment 7 – 
