@@ -5,7 +5,7 @@ This repository contains all my *lab assignments* for the **Data Structure Lab (
 ## 📁 Repository Structure
 
 Each folder is organized by lab week or assignment number, and includes:
-- ✅ Problem statement (if available)
+- ✅ Problem statement
 - 🧠 Explanation or logic (as comments or in a README)
 - 💻 C code implementation
 
@@ -15,18 +15,17 @@ Each folder is organized by lab week or assignment number, and includes:
 
 Each folder is named by assignment number and includes the problem statement (if available), explanation, and the C code.
 
-- 📁 Assignment 1 – Array Concepts (with and without dynamic memory allocation)
+- 📁 Assignment 1 – Array Concepts(without dynamic memory allocation), EXT: with dynamic memory allocation
 - 📁 Assignment 2 – Stack
 - 📁 Assignment 3 – Queues
 - 📁 Optional Assignment – Postfix Prefix
-- 📁 Assignment 4 – Singly Linked List
-- 📁 Assignment 5 – 
+- 📁 Assignment 4 – Singly Linked List, EXT:Circular and Doubly Linked List
+- 📁 Assignment 5 – Binary Tree and BST
 - 📁 Assignment 6 – 
 - 📁 Assignment 7 – 
 - 📁 Assignment 8 – 
 - 📁 Assignment 9 – 
 - 📁 Assignment 10 – 
-- 📁 Extra Practice / Bonus
 
 > ✏️ *Folder names will be updated with exact topics as assignments progress.*
 
@@ -35,8 +34,8 @@ Each folder is named by assignment number and includes the problem statement (if
 ## 💡 Topics Covered
 
 - Arrays and Strings
-- Linked Lists (Singly, Doubly, Circular)
 - Stacks and Queues
+- Linked Lists (Singly, Doubly, Circular)
 - Trees (Binary Trees, Binary Search Trees)
 - Graphs (BFS, DFS)
 - Sorting and Searching Algorithms
